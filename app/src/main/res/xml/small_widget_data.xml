@@ -1,0 +1,13 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    android:minHeight="110dp"
+    android:minWidth="200dp"
+    android:previewImage="@drawable/small_widget_preview"
+    android:widgetCategory="home_screen"
+    android:initialLayout="@layout/glance_default_loading_layout"
+    >
+    <!--    android:resizeMode="horizontal|vertical"-->
+    <!--    android:minHeight="117dp"-->
+    <!--    android:minWidth="553dp"-->
+</appwidget-provider>

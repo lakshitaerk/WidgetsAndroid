@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "434209672052",
+    "firebase_url": "https://taponmein-default-rtdb.firebaseio.com",
+    "project_id": "taponmein",
+    "storage_bucket": "taponmein.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434209672052:android:f620ad43a07f8bf1347a21",
+        "android_client_info": {
+          "package_name": "com.erk.taponme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434209672052-e1d9qsq6ake94t0q3c39nvatarmhchma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erk.taponme",
+            "certificate_hash": "45ab918441b2b9b6eddb85aa150c16596ccde687"
+          }
+        },
+        {
+          "client_id": "434209672052-nkb7mk2ulbopchi514nni60gcvd7ougm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erk.taponme",
+            "certificate_hash": "4ccd204c8d7f326c646600670b223cbec8f8c396"
+          }
+        },
+        {
+          "client_id": "434209672052-60van1rs0cqk9pg9upracmadqcvpamre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5m0o2ZdLWEQF8jM3xSMXbbJC3thCIrlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434209672052-60van1rs0cqk9pg9upracmadqcvpamre.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434209672052-nb6lds2nj63pgdt1a0b60bnp9bu93khj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.erk.taponme"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434209672052:android:33fc58ca8a44d235347a21",
+        "android_client_info": {
+          "package_name": "com.example.instantplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434209672052-60van1rs0cqk9pg9upracmadqcvpamre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5m0o2ZdLWEQF8jM3xSMXbbJC3thCIrlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434209672052-60van1rs0cqk9pg9upracmadqcvpamre.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434209672052-nb6lds2nj63pgdt1a0b60bnp9bu93khj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.erk.taponme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
