@@ -126,23 +126,6 @@ class MyAppWidgetSmall : GlanceAppWidget() {
             contentScale = contentScale
         )
     }
-    @Composable
-    fun pin() {
-
-        // ImageView(context = context, ContentScale.Crop, imageProvider)
-        Column(
-            verticalAlignment = Alignment.CenterVertically,
-            horizontalAlignment = Alignment.CenterHorizontally,
-        ) {
-            Image(provider = ImageProvider(R.drawable.circle), contentDescription = "null")
-            Image(provider = ImageProvider(R.drawable.triangle), contentDescription = "null")
-        }
-
-    }
-
-
-
-
     private fun actionLaunchActivity(): Action = actionStartActivity<MainActivity>()
 
 }
